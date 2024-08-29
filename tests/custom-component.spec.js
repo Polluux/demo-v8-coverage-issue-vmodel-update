@@ -1,6 +1,6 @@
 import { describe, it } from 'vitest';
 import { mount } from '@vue/test-utils';
-import CustomComponent from '../src/components/CustomComponent.vue';
+import CustomComponent from '../src/components/custom-component.vue';
 
 describe('CustomComponent', () => {
   it('test', async() => {
