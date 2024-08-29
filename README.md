@@ -19,7 +19,7 @@ The `vite.config.ts` contains all coverage informations.
 The following command is used to launch tests.
 
 ```console
-$ npm run test:unit
+npm run test
 ```
 
 ## Observed results
